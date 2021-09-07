@@ -6,6 +6,8 @@ struct Employee
     float salary;
 }e1, e2;
 
+struct student e4;
+
 void main()
 {
     struct Employee e3;
