@@ -1,1 +1,1 @@
-scanf("%s",students[i].name);
+d);
