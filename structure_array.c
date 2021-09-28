@@ -8,6 +8,7 @@ struct Employee
 
 void main()
 {
+    // int arr[5];
     struct Employee emp[5];
 
     // for(int i=0; i<5; i++)
