@@ -23,6 +23,7 @@ void main()
     // p->len=100;
 
     struct Rectangle *p = (struct Rectangle *) malloc(sizeof(struct Rectangle));
+    struct Rectangle *p = (struct Rectangle *) malloc(5*sizeof(struct Rectangle));
 
     free(p);
     p=NULL;
